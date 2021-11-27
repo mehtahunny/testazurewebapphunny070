@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SimpleAzureApp
+build_property.ProjectDir = C:\az-204-demos\SimpleAzureAppSol\SimpleAzureApp\
